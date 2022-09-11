@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mbasagoitia
 - 👀 I’m interested in web development and web design
-- 🌱 I’m currently learning HTML, CSS, Javascript, and PHP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, Javascript, SQL, and React
 - 📫 How to reach me ... marika.basagoitia@gmail.com
 
 <!---
