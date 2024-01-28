@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbasagoitia
-- 👀 I’m interested in web development
-- 🌱 I’m building projects with HTML, CSS, Javascript, React, and Express
+- Freelance Web Developer
 - 📫 How to reach me ... marika.basagoitia@gmail.com
 
 <!---
