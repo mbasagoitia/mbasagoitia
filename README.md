@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbasagoitia
-- Freelance Web Developer
+- Web Developer
 - 📫 How to reach me ... marika.basagoitia@gmail.com
 
 <!---
