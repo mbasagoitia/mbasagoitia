@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbasagoitia
-- Web Developer
+- Musician and Software Developer
 - 📫 How to reach me ... marika.basagoitia@gmail.com
 
 <!---
