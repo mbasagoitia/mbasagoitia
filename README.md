@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mbasagoitia
-- Musician and Software Developer
+- Musician and Full Stack Software Developer
+- Yale University
 - 📫 How to reach me ... marika.basagoitia@gmail.com
 
 <!---
